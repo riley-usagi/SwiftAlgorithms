@@ -3,5 +3,6 @@
     <pages>
         <page name='Introduction'/>
         <page name='Euclidean'/>
+        <page name='Prime numbers'/>
     </pages>
 </playground>
