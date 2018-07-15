@@ -1,7 +1,9 @@
 //: [Previous](@previous)
-
 import Foundation
+//: ## Простые числа
+//: > Простое число это число, которое делится только на единицу и на само себя.
 
+/// Является ли число простым.
 func isPrime(_ value: Int) -> Bool {
   var result = true
   for i in 2 ..< value {
