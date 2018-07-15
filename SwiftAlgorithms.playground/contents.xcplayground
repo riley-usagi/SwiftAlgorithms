@@ -4,5 +4,6 @@
         <page name='Introduction'/>
         <page name='Euclidean'/>
         <page name='Prime numbers'/>
+        <page name='Average rating'/>
     </pages>
 </playground>
