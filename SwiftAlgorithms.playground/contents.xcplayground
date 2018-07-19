@@ -6,5 +6,6 @@
         <page name='Prime numbers'/>
         <page name='Average rating'/>
         <page name='Sum of digits of a positive integer'/>
+        <page name='Revert number'/>
     </pages>
 </playground>
