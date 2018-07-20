@@ -5,7 +5,9 @@ import Foundation
 
 /// Является ли число простым.
 func isPrime(_ value: Int) -> Bool {
+  
   var result = true
+  
   for i in 2 ..< value {
     if value % i == 0 {
       result = false
